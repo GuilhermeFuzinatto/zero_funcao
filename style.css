@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+header{
+    position: relative;
+    margin: 0;
+    background: rgb(148, 79, 79);
+    height: 100px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+header h1{
+    position: relative;
+    top: 10px;
+    font-family: ;
+}
+
+header h2{
+    position: relative;
+    top: 20px;
+}
+
+body{
+    margin: 0;
+    background-color: antiquewhite
+}
